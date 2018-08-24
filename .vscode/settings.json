@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/m/.platformio/penv/bin:/Users/m/.platformio/penv:/Users/m/.rvm/gems/ruby-2.5.1/bin:/Users/m/.rvm/gems/ruby-2.5.1@global/bin:/Users/m/.rvm/rubies/ruby-2.5.1/bin:/Users/m/.cargo/bin:/usr/local/Cellar/openssl/1.0.2h_1/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/bin:/sbin:/opt/X11/bin:/Users/m/.rvm/bin:/usr/local/opt/go/libexec/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
